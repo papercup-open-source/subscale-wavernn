@@ -2,7 +2,8 @@
 
 This code implements the Subscale part of the WaveRNN paper on top of Fatchord's original implementation.
 
-Please refer to this accompanying blogpost for details of our interpretation: [Subscale WaveRNN - unposted]()
+Please refer to this accompanying blogpost for details of our interpretation: [Subscale
+WaveRNN](https://papercup.dev/posts/subscale_wavernn/)
 
 Original publication: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435)
 
