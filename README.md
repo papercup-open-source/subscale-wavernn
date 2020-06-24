@@ -27,7 +27,7 @@ If you are providing the features, the data loader will create a set based on th
 in the `mel` folder and the `wav_24khz` folder.
 
 You can download a version of the Sharvard dataset with this folder structure
-[here](https://www.dropbox.com/s/bmq4rtw8yne8l3h/Sharvard.tar.gz?dl=0)
+[here](https://www.dropbox.com/s/uqt850z4f3kr529/Sharvard.tar.gz?dl=0)
 
 Extract with:
 `tar -zxvf Sharvard.tar.gz`
