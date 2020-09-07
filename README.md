@@ -31,7 +31,7 @@ You can download a version of the Sharvard dataset with this folder structure
 [here](https://www.dropbox.com/s/uqt850z4f3kr529/Sharvard.tar.gz?dl=0)
 
 Extract with:
-`tar -zxvf Sharvard.tar.gz`
+`tar xvf Sharvard.tar.gz`
 
 ## Inspect your trained model with tensorboard 
 
