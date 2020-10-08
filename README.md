@@ -9,6 +9,8 @@ Original publication: [Efficient Neural Audio Synthesis](https://arxiv.org/abs/1
 
 Initial implementation: [Fatchord's Repo](https://github.com/fatchord/WaveRNN)
 
+Samples after training for 1M iterations on the Sharvard dataset with current hparams: [samples](https://www.dropbox.com/sh/r5ohzs7c1uaqm6s/AAD8_mjcy6l59-b_b-Qp2L1na)
+
 ## Quickstart: train a new model
 
 To train the model, use the command below:
